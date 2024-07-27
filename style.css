@@ -1,0 +1,12 @@
+body {
+	background-color: #d6edf0;
+}
+
+td {
+	border: 2px solid #cecece;
+	width: 80px;
+	height: 80px;
+	padding: 2px;
+	text-align: center;
+	border-radius: 2px;
+}
